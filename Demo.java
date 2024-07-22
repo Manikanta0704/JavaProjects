@@ -13,7 +13,26 @@ public class Demo {
 		Connection con=DriverManager.getConnection(url, user, password);
 		Statement st=con.createStatement();
 		st.executeQuery(sql);
-		
-	}
 
+vhhvvvvvvvv}wq
+W1
+:q
+:wq
+":q:
+:q!
+
+
+
+
+
+
+
+
+
+wq!
+
+
+clear
+djwcnkjdsbkcwq!
+wq!
 }
